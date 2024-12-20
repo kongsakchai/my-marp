@@ -1,0 +1,14 @@
+{
+	"scripts": {
+		"start": "marp --config-file marp.config.mjs ./"
+	},
+	"dependencies": {
+		"@marp-team/marp-cli": "^4.0.3",
+		"@mdit/plugin-alert": "^0.13.1",
+		"@mdit/plugin-attrs": "^0.13.1",
+		"@mdit/plugin-tasklist": "^0.13.1",
+		"@shikijs/transformers": "^1.24.1",
+		"mermaid": "^11.3.0",
+		"shiki": "^1.24.0"
+	}
+}
